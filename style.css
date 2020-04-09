@@ -6,8 +6,24 @@ main {
   padding: 0px 20px;
 }
 
-p {
-  color: #000000;
-  font-family: 'Arial', sans-serif;
+h1 {color: #000000;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 26px
+}
+
+
+
+h5 {color: #000000;
+  font-family: 'Helvetica', sans-serif;
   font-size: 14px
 }
+
+p {
+  color: #000000;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 15px
+}
+
+.img-container1 {
+        text-align: center}
+
